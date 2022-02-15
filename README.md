@@ -1,0 +1,2 @@
+# Cinnamon_Cinemas_Movie_Theatre_Seating_Challenge
+Tech Returner Assignment
